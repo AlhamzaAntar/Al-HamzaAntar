@@ -5,6 +5,5 @@ Al Spacelist  ✦ Web Developer.
 
 React, Next.js TypeScript, Tailwind CSS, Python 
 
-![me](https://github.com/AlhamzaAntar/Al-HamzaAntar/blob/main/alhamza.png)
-
+![me](https://github.com/AlhamzaAntar/Al-HamzaAntar/blob/main/alhamza.png?raw=true)
 
