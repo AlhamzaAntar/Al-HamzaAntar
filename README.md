@@ -1,6 +1,3 @@
-# Al-Hamza Antar
-<h1>Software Enginee</h1>
-
 <h1 align="center">Hi 👋, I'm Al-Hamza Antar</h1>
 <h3 align="center">Al Spacelist  ✦ Web Developer.</h3>
 
