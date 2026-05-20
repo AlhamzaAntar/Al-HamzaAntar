@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Al-Hamza Antar</h1>
-<h3 align="center">Al Spacelist  ✦ Web Developer.</h3>
+<h3 align="center">✦Al Spacelist  ✦ Web Developer✦</h3>
 
 # 💻 Tech Stack:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
