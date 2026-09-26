@@ -50,6 +50,7 @@
 ![D3](https://img.shields.io/badge/d3-%23F05033.svg?style=for-the-badge&logo=d3&logoColor=white) 
 ![WordPress](https://img.shields.io/badge/WordPress-%231572B6.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
 ![Odoo](https://img.shields.io/badge/Odoo-%237C2F52.svg?style=for-the-badge&logo=odoo&logoColor=white)
+![ERPNext](https://img.shields.io/badge/ERPNext-0089FF.svg?style=for-the-badge&logo=erpnext&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230082C6.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23404d59.svg?style=for-the-badge&logo=postman&logoColor=%23FF6C37)
@@ -63,7 +64,6 @@
 ![Windsurf](https://img.shields.io/badge/windsurf-34E8BB.svg?style=for-the-badge&logo=windsurf&logoColor=white)
 ![Google Anti-gravity](https://img.shields.io/badge/Google-Anti--gravity-EA4335?style=for-the-badge&logo=google&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-CC5500.svg?style=for-the-badge&logo=anthropic&logoColor=white)
-![ERPNext](https://img.shields.io/badge/ERPNext-0089FF.svg?style=for-the-badge&logo=erpnext&logoColor=white)
 
 ![me](alhamza.png)
 
