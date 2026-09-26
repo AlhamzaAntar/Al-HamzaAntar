@@ -63,6 +63,7 @@
 ![Windsurf](https://img.shields.io/badge/windsurf-34E8BB.svg?style=for-the-badge&logo=windsurf&logoColor=white)
 ![Google Anti-gravity](https://img.shields.io/badge/Google-Anti--gravity-EA4335?style=for-the-badge&logo=google&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-CC5500.svg?style=for-the-badge&logo=anthropic&logoColor=white)
+![ERPNext](https://img.shields.io/badge/ERPNext-0089FF.svg?style=for-the-badge&logo=erpnext&logoColor=white)
 
 ![me](alhamza.png)
 
