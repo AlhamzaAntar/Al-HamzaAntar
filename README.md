@@ -65,6 +65,7 @@
 ![Google Anti-gravity](https://img.shields.io/badge/Google-Anti--gravity-EA4335?style=for-the-badge&logo=google&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-CC5500.svg?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Lovable](https://img.shields.io/badge/Lovable-000000.svg?style=for-the-badge&logo=lovable&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-667881.svg?style=for-the-badge&logo=replit&logoColor=white)
 
 ![me](alhamza.png)
 
